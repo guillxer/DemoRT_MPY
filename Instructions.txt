@@ -1,0 +1,10 @@
+Install Cygwin with the arm gcc libraries make, and python modules listed in micropython documentation.
+https://docs.micropython.org/en/latest/develop/natmod.html
+
+Download Micropython v1.19.1 source.
+https://github.com/micropython/micropython/releases/tag/v1.19.1
+
+Files are build in natmod examples:
+micropython-1.19.1\examples\natmod\rt
+
+Run the make command to build thumbyrt.mpy
